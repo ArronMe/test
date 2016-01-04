@@ -11,7 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.zhaoxianhua.com/upload/ios/NewEasyFlower.ipa</string>
+					<string>https://www.baidu.com</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://www.baidu.com</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://www.baidu.com</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,13 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.easyflower.gongxianhuaApp</string>
 				<key>bundle-version</key>
-				<string>1.30</string>
+				<string>1.40</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>安装</string>
 				<key>title</key>
-				<string>宜花·供鲜花</string>
+				<string>NewEasyFlower</string>
 			</dict>
 		</dict>
 	</array>
