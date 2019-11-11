@@ -23,19 +23,19 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://release.in.hillinsight.com/slark/release/trusting/main.ipa</string>
+					<string>https://www.changniucf.com/donwload/du127.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hillhouse.trustingApp</string>
+				<string>com.changNiu.stock</string>
 				<key>bundle-version</key>
 				<string>1.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>宠颐生</string>
+				<string>长牛财富</string>
 			</dict>
 		</dict>
 	</array>
